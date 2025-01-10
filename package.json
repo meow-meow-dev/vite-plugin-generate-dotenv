@@ -1,6 +1,6 @@
 {
   "name": "@meow-meow-dev/vite-plugin-generate-dotenv",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Generate a .env file (such as Cloudflare's .dev.vars) from environment variables with a specific prefix ",
   "keywords": [
     "vite",
