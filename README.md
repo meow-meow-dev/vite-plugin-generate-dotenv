@@ -22,6 +22,7 @@ MY_PROJECT_DEVELOPMENT_FACEBOOK_SECRET_KEY="...facebook secret key..."
 
 ```js
 // vite.config.ts
+
 import { defineConfig } from "vite";
 import { generateDotenv } from "@meow-meow-dev/vite-plugin-generate-dotenv"
 
