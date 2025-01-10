@@ -33,7 +33,7 @@ export function generateDotenv({
         );
 
         if (missingKeys !== undefined) {
-          const errorMessage = `The followng keys are missing : ${missingKeys.join(" ")}`;
+          const errorMessage = `The following keys are missing : ${missingKeys.join(" ")}`;
           console.error(errorMessage);
 
           throw new Error(errorMessage);
