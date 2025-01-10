@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.1.1](https://github.com/meow-meow-dev/vite-plugin-generate-dotenv/compare/v1.1.0...v1.1.1) (2025-01-10)
+
+
+### Bug Fixes
+
+* add missing # to the auto-generated message ([#7](https://github.com/meow-meow-dev/vite-plugin-generate-dotenv/issues/7)) ([f1c39cd](https://github.com/meow-meow-dev/vite-plugin-generate-dotenv/commit/f1c39cd4ddcdd42a3a0c044e8c7a1c0202a8c95f))
+
 ## [1.1.0](https://github.com/meow-meow-dev/vite-plugin-generate-dotenv/compare/v1.0.0...v1.1.0) (2025-01-10)
 
 
